@@ -1,1 +1,1 @@
-Edit this file to add assembly instructions
+This is a ready to print 3D .stl file.  It probably will print best with the largest part on the bottom.  Once printed you plug it into the power port of the Arduino so you will only have the Shield power port availbe and avoid plugging power into the wrong place to use the Maslow.
