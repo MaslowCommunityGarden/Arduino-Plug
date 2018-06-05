@@ -1,3 +1,5 @@
-ModerationLevel = customManaged
-
- Facilitator: Bee91303
+{
+    "ModerationLevel": "customManaged",
+    "Facilitator": "Bee91303",
+    "Category": "maslow" 
+}
